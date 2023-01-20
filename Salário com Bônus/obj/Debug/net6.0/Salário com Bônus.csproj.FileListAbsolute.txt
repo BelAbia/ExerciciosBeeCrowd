@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Salário com Bônus\Salário com Bônus\bin\Debug\net6.0\Salário com Bônus.exe
+C:\Users\Usuario\source\repos\Salário com Bônus\Salário com Bônus\bin\Debug\net6.0\Salário com Bônus.deps.json
+C:\Users\Usuario\source\repos\Salário com Bônus\Salário com Bônus\bin\Debug\net6.0\Salário com Bônus.runtimeconfig.json
+C:\Users\Usuario\source\repos\Salário com Bônus\Salário com Bônus\bin\Debug\net6.0\Salário com Bônus.dll
+C:\Users\Usuario\source\repos\Salário com Bônus\Salário com Bônus\bin\Debug\net6.0\Salário com Bônus.pdb
+C:\Users\Usuario\source\repos\Salário com Bônus\Salário com Bônus\obj\Debug\net6.0\Salário com Bônus.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Salário com Bônus\Salário com Bônus\obj\Debug\net6.0\Salário com Bônus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Salário com Bônus\Salário com Bônus\obj\Debug\net6.0\Salário com Bônus.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Salário com Bônus\Salário com Bônus\obj\Debug\net6.0\Salário com Bônus.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Salário com Bônus\Salário com Bônus\obj\Debug\net6.0\Salário com Bônus.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Salário com Bônus\Salário com Bônus\obj\Debug\net6.0\Salário com Bônus.dll
+C:\Users\Usuario\source\repos\Salário com Bônus\Salário com Bônus\obj\Debug\net6.0\refint\Salário com Bônus.dll
+C:\Users\Usuario\source\repos\Salário com Bônus\Salário com Bônus\obj\Debug\net6.0\Salário com Bônus.pdb
+C:\Users\Usuario\source\repos\Salário com Bônus\Salário com Bônus\obj\Debug\net6.0\Salário com Bônus.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Salário com Bônus\Salário com Bônus\obj\Debug\net6.0\ref\Salário com Bônus.dll

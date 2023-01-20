@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Salário com Bônus/1.0.0": {
+        "runtime": {
+          "Salário com Bônus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Salário com Bônus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
